@@ -1,0 +1,6 @@
+{
+  "name": "SyncZoom",
+  "description": "Image comparison app to compare 2 or 3 images with synchronized zooming and panning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
